@@ -12,11 +12,11 @@ I have a mechanical engineering background and manufacturing quality experience,
 - **Data Analysis:** data cleaning, SQL analysis, spreadsheet reporting, and dashboards
 - **Process Improvement:** structured problem-solving informed by engineering and quality work
 
-## Tools
+## Tools I'm Developing
 
-Excel · SQL · Power BI
+Excel · SQL · Power BI · Tableau
 
-I’m using these tools to develop and document practical projects. Each project will include its business question, data source, methodology, findings, and limitations.
+I’m developing these tools through practical analysis and documented projects. Power BI and Tableau overlap in dashboarding and business intelligence, but each has its own calculation methods and workflow. I’ll use the tool that best fits the project and my learning goals.
 
 ## Portfolio Roadmap
 
@@ -29,6 +29,7 @@ These are planned projects, not completed work. I’ll update each entry when th
 | SQL Business Analysis | Retail transactions, revenue, and customer trends | Planned |
 | Excel Reporting Project | Clean data, KPI summaries, and a reporting dashboard | Planned |
 | Power BI Dashboard | Interactive business reporting with documented insights | Planned |
+| Tableau Dashboard | Visual exploration and an interactive dashboard for business insights | Planned |
 
 ## How I Document Projects
 
